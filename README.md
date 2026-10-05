@@ -4,6 +4,7 @@ A DIY hardware passkey: a Waveshare **RP2350-Zero** flashed with **pico-fido**,
 carried on a keychain, used for GitHub and anything else that takes a FIDO2 key.
 
 Plan and open decisions live in `~/goals/PICO-PASSKEY-GOAL.md`.
+Step-by-step setup: [`docs/PLUG-AND-GO.md`](docs/PLUG-AND-GO.md).
 
 ## Why
 
